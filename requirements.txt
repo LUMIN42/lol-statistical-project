@@ -1,0 +1,2 @@
+psycopg2-binary~=2.9.12 # optional, used for creating data
+numpy~=2.5.0 # used in permutation_distribution.py for quantiles
